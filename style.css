@@ -1,0 +1,2 @@
+:root{color-scheme:light;background:#f6f5ed;color:#183c33;font:16px/1.65 system-ui,sans-serif}
+body{margin:0}main{max-width:42rem;margin:auto;padding:3rem 1.25rem 4rem}nav{display:flex;gap:1rem;border-bottom:1px solid #c8d5cd;padding-bottom:1rem}h1{font:600 clamp(2rem,8vw,3.25rem)/1.1 Georgia,serif}h2{font-size:1.2rem;margin-top:2rem}a{color:#195946;text-underline-offset:.15em}li+li{margin-top:.5rem}
